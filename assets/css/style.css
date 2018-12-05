@@ -279,6 +279,12 @@ div .gallery-video{
 .about-us{
     text-decoration: underline;
 }
+.about{
+   position: relative;
+   height: auto;
+   margin-bottom: 350px;
+    
+}
 .container .show-image{
     overflow: hidden;
 }
@@ -286,6 +292,8 @@ div .gallery-video{
     height: 100%;
     width: auto;
 }
+
+
 
 
 
