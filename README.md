@@ -10,7 +10,11 @@ Galery video by radio.co
 
 
 >Credits To:
+
 https://www.w3schools.com/
+
 https://www.liveradio.ie/
+
 Google images shareware
+
 *Most images are borrowed and won't be used commercialy. The images are for demonstration purposes only.
